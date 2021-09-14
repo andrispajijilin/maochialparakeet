@@ -8,7 +8,7 @@ jobs:
     steps:
       - run: node -v
       #- run: 
-          #name: Install Chromium Browser
+          #name: Install Chromium Browsers
           #command: |-
             #sudo apt install -y chromium-browser
             #export PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true
